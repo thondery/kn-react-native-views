@@ -1,0 +1,22 @@
+{
+  "name": "kn-react-native-views",
+  "version": "0.0.1",
+  "description": "A collection of generic react-navtive components",
+  "main": "/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thondery/kn-react-native-views.git"
+  },
+  "author": "thondery <thondery@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thondery/kn-react-native-views/issues"
+  },
+  "homepage": "https://github.com/thondery/kn-react-native-views#readme",
+  "dependencies": {
+    "react-native-scrollable-tab-view": "^0.7.0"
+  }
+}
