@@ -12,6 +12,7 @@ npm i --save kn-react-native-views
 
 * Button
 * ScrollableTabBar
+* Tips
 
 ## License
 

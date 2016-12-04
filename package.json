@@ -1,6 +1,6 @@
 {
   "name": "kn-react-native-views",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A collection of generic react-navtive components",
   "main": "/src/index.js",
   "scripts": {
