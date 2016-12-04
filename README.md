@@ -10,6 +10,7 @@ npm i --save kn-react-native-views
 
 ## Modules
 
+* Button
 * ScrollableTabBar
 
 ## License

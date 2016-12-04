@@ -1,6 +1,6 @@
 {
   "name": "kn-react-native-views",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A collection of generic react-navtive components",
   "main": "/src/index.js",
   "scripts": {
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/thondery/kn-react-native-views#readme",
   "dependencies": {
-    "react-native-scrollable-tab-view": "^0.7.0"
+    "react-native-scrollable-tab-view": "^0.7.0",
+    "react-native-vector-icons": "^3.0.0"
   }
 }
